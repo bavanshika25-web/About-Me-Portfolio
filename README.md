@@ -38,8 +38,11 @@ These experiences not only nurtured my leadership and collaboration abilities bu
 - Analytics Mindset: Hypothesis-driven problem solving, business case structuring, and consulting-style insights.  
 
 🌐 Professional Presence  
-Beyond academics and certifications, I am actively building my professional network. I have a strong online presence with 1,000+ followers on LinkedIn, where I engage with the analytics community, share my learnings, and showcase projects. This not only demonstrates my credibility, but also reflects my commitment to continuously grow and contribute to the data analytics ecosystem.  
+Beyond academics and certifications, I am actively building my professional network. I have a strong online presence with 1,000+ followers on LinkedIn, where I engage with the analytics community, share my learnings, and showcase projects. This not only demonstrates my credibility, but also reflects my commitment to continuously grow and contribute to the data analytics ecosystem.
 
 ✨ Career Aspiration  
 My goal is to combine my scientific background, analytical training, and communication skills to build a career in data analytics. I am particularly interested in roles where I can bridge the gap between data and decision-making—helping businesses uncover insights, optimize processes, and make informed strategic choices.  
+
+My Linkedin Account is https://www.linkedin.com/in/analystvanshika/
+My Email Account is bavanshika25@gmail.com
 
